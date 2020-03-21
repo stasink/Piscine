@@ -56,6 +56,8 @@
 
 [ko.subject.pdf](C00/ko.subject.pdf)
 
+[en.subject.pdf](C00/en.subject.pdf)
+
 [Exercice 00 : ft_putchar](C00/ex00)
 
 [Exercise 01 : ft_print_alphabet](C00/ex01)
